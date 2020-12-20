@@ -1,7 +1,7 @@
 /* globals createCanvas, background, circle, fill, noStroke, width, height, random, keyIsDown, collideCircleCircle, isMousePressed, loadImage, image, noLoop, CENTER
 textAlign, textSize, fill, text, mouseIsPressed, mouseX, mouseY, keyPressed, UP_ARROW, RIGHT_ARROW, LEFT_ARROW, DOWN_ARROW, SPACEBAR*/
 
-let round = 10;
+let round = 1;
 let zombies = [];
 let pellets = [];
 let reload = 50;
